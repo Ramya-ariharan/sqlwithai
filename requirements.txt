@@ -1,0 +1,20 @@
+# --- Core Framework ---
+fastapi==0.115.2
+uvicorn==0.30.1
+
+# --- LLM / GenAI ---
+langchain==0.2.14
+langchain-community==0.2.12
+langchain-core==0.2.23
+groq==0.9.0
+openai==1.52.2
+
+# --- Vector Database & Text Processing ---
+chromadb==0.5.5
+faiss-cpu==1.8.0
+sentence-transformers==3.0.1
+
+# --- Utilities ---
+python-dotenv==1.0.1
+pydantic==2.9.0
+requests==2.32.3

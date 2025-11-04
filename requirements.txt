@@ -2,6 +2,7 @@
 fastapi==0.115.2
 uvicorn==0.30.1
 starlette
+faiss-cpu==1.8.0
 
 
 # --- LLM / GenAI ---
@@ -20,4 +21,5 @@ sentence-transformers==3.0.1
 python-dotenv==1.0.1
 pydantic==2.9.0
 requests==2.32.3
+
 
